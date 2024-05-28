@@ -1,4 +1,7 @@
 # Problemario 2 - MDLP
+
+Realizar el planteamiento, definir tipos de datos, nombres de variables acorde al problema. Posteriormente, diseña su diagrama de flujo y pseudocódigo. Descarta errores y refina tu algoritmo a través de la prueba de escritorio.
+
 1. Escribir un programa que calcule al perímetro y área de un círculo dado su radio.
 2. Escribir un programa que calcule el cociente y el residuo dados dos números enteros.
 3. Escribir un programa que calcule el área y perímetro de un pentágono.
